@@ -1,0 +1,1 @@
+pyinstaller mult.py --name Dope_Snake_Project --clean --onefile --windowed --add-data fonts;fonts --add-data graphics;graphics
